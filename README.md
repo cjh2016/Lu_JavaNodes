@@ -1,3 +1,5 @@
+
+
 ## 鹿老师的Java笔记
 
 > 有天上飞的概念，就要有落地的实现
@@ -47,6 +49,10 @@
 
 
 1.  [SpringBoot图文教程1「概念+案例 思维导图」「基础篇上」](https://mp.weixin.qq.com/s/phk6j3ChBP-kPtS2xZeEZg)
+2.  [SpringBoot图文教程2—日志的使用「logback」「log4j」](https://mp.weixin.qq.com/s/7Mw_xhFF4Q5NtdtcsHc67Q)
+3.  [SpringBoot图文教程3—「‘初恋’情结」集成Jsp](https://mp.weixin.qq.com/s/BYzVg5NBcF_ou_PyX8ygag)
+
+
 
 ### 日志使用 图文系列
 
@@ -54,9 +60,15 @@
 
 
 
+### IDEA 的使用
+
+1. [「硬核干货」总结IDEA开发的26个常用设置](https://mp.weixin.qq.com/s/PgGDi1krVtnSmb9UubKZJw)
+
+
+
 ### :cloud_with_lightning:<a name="面试题">面试题集锦</a>
 
-[面试集锦](面试题/面试题集锦.md)
+
 
 ### :medal_sports:<a name="公众号">鹿老师的公众号</a>
 
