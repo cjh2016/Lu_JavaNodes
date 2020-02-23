@@ -1,0 +1,58 @@
+2020-02-14 [main] INFO  com.lu.AppRun Starting AppRun on lubingyangdeMacBook-Pro.local with PID 24822 (started by lubingyang in /Volumes/Fast SSD/日常资料/博客写作资料/SpringBoot/boothello)
+2020-02-14 [main] INFO  com.lu.AppRun No active profile set, falling back to default profiles: default
+2020-02-14 [main] INFO  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@778d1062: startup date [Fri Feb 14 20:25:14 CST 2020]; root of context hierarchy
+2020-02-14 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8802 (http)
+2020-02-14 [main] INFO  org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-02-14 [main] INFO  org.apache.catalina.core.StandardEngine Starting Servlet Engine: Apache Tomcat/8.5.31
+2020-02-14 [localhost-startStop-1] INFO  org.apache.catalina.core.AprLifecycleListener The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/lubingyang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2020-02-14 [localhost-startStop-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-02-14 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 820 ms
+2020-02-14 [localhost-startStop-1] INFO  o.s.boot.web.servlet.ServletRegistrationBean Servlet dispatcherServlet mapped to [/]
+2020-02-14 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-14 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-14 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-14 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-14 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-14 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@778d1062: startup date [Fri Feb 14 20:25:14 CST 2020]; root of context hierarchy
+2020-02-14 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping Mapped "{[/getUser]}" onto public java.lang.String com.lu.controller.UserController.getUser()
+2020-02-14 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2020-02-14 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2020-02-14 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-14 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-14 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter Registering beans for JMX exposure on startup
+2020-02-14 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter Bean with name 'dataSource' has been autodetected for JMX exposure
+2020-02-14 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.pool:name=dataSource,type=DruidDataSource]
+2020-02-14 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8802 (http) with context path ''
+2020-02-14 [main] INFO  com.lu.AppRun Started AppRun in 2.133 seconds (JVM running for 2.761)
+2020-02-14 [Thread-7] INFO  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@778d1062: startup date [Fri Feb 14 20:25:14 CST 2020]; root of context hierarchy
+2020-02-14 [Thread-7] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter Unregistering JMX-exposed beans on shutdown
+2020-02-14 [Thread-7] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter Unregistering JMX-exposed beans
+2020-02-14 [main] INFO  com.lu.AppRun Starting AppRun on lubingyangdeMacBook-Pro.local with PID 24842 (started by lubingyang in /Volumes/Fast SSD/日常资料/博客写作资料/SpringBoot/boothello)
+2020-02-14 [main] INFO  com.lu.AppRun No active profile set, falling back to default profiles: default
+2020-02-14 [main] INFO  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1e802ef9: startup date [Fri Feb 14 20:38:00 CST 2020]; root of context hierarchy
+2020-02-14 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8802 (http)
+2020-02-14 [main] INFO  org.apache.catalina.core.StandardService Starting service [Tomcat]
+2020-02-14 [main] INFO  org.apache.catalina.core.StandardEngine Starting Servlet Engine: Apache Tomcat/8.5.31
+2020-02-14 [localhost-startStop-1] INFO  org.apache.catalina.core.AprLifecycleListener The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/lubingyang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2020-02-14 [localhost-startStop-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2020-02-14 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader Root WebApplicationContext: initialization completed in 762 ms
+2020-02-14 [localhost-startStop-1] INFO  o.s.boot.web.servlet.ServletRegistrationBean Servlet dispatcherServlet mapped to [/]
+2020-02-14 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-14 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-14 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-14 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-14 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-14 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1e802ef9: startup date [Fri Feb 14 20:38:00 CST 2020]; root of context hierarchy
+2020-02-14 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping Mapped "{[/getUser]}" onto public java.lang.String com.lu.controller.UserController.getUser()
+2020-02-14 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2020-02-14 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2020-02-14 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-14 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-14 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter Registering beans for JMX exposure on startup
+2020-02-14 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter Bean with name 'dataSource' has been autodetected for JMX exposure
+2020-02-14 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.pool:name=dataSource,type=DruidDataSource]
+2020-02-14 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8802 (http) with context path ''
+2020-02-14 [main] INFO  com.lu.AppRun Started AppRun in 1.829 seconds (JVM running for 2.414)
+2020-02-14 [Thread-6] INFO  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1e802ef9: startup date [Fri Feb 14 20:38:00 CST 2020]; root of context hierarchy
+2020-02-14 [Thread-6] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter Unregistering JMX-exposed beans on shutdown
+2020-02-14 [Thread-6] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter Unregistering JMX-exposed beans

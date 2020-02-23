@@ -40,6 +40,11 @@
 
 
 
+#### JDK8 新特性
+
+1. [什么？接口中方法可以不是抽象的「JDK8接口新语法的深度思考」](https://mp.weixin.qq.com/s/566y5AIEFjrti_sKX4JA1A)
+2. 
+
 ### SpringBoot 图文教程 
 
 ![1703780974f34e37](README.assets/1703780974f34e37.png)
@@ -51,6 +56,7 @@
 1.  [SpringBoot图文教程1「概念+案例 思维导图」「基础篇上」](https://mp.weixin.qq.com/s/phk6j3ChBP-kPtS2xZeEZg)
 2.  [SpringBoot图文教程2—日志的使用「logback」「log4j」](https://mp.weixin.qq.com/s/7Mw_xhFF4Q5NtdtcsHc67Q)
 3.  [SpringBoot图文教程3—「‘初恋’情结」集成Jsp](https://mp.weixin.qq.com/s/BYzVg5NBcF_ou_PyX8ygag)
+4.  [SpringBoot图文教程4—SpringBoot 实现文件上传下载](https://mp.weixin.qq.com/s/6ctykPo3eDBEB7YsC0PAZw)
 
 
 
@@ -71,8 +77,6 @@
 
 
 ### :medal_sports:<a name="公众号">鹿老师的公众号</a>
-
-**拥有两年开发经验和三年Java大数据教学经验，曾帮助2000+学生成功就业和跳槽。**
 
 欢迎关注本人公众号：鹿老师的Java笔记，将在长期更新Java技术图文教程和视频教程，Java学习经验，Java面试经验以及Java实战开发经验。
 
